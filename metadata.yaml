@@ -1,0 +1,31 @@
+_repo: -ber-das-Aussterben-der-Naturv-lker_14028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gerland, Georg Karl Cornelius
+    birthdate: 1833
+    deathdate: 1921
+    gutenberg_agent_id: '5337'
+    url: http://www.gutenberg.org/2009/agents/5337
+description: ''
+gutenberg_bookshelf:
+- German Language Books
+- DE Sachbuch
+- Anthropology
+gutenberg_issued: '2004-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14028'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology'
+- !lcsh 'Anthropology'
+- !lcc 'GN'
+title: Über das Aussterben der Naturvölker
+url: http://www.gutenberg.org/ebooks/14028
